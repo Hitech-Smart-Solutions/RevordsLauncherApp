@@ -1,6 +1,4 @@
 
-[Learn to build article](https://www.appwriters.dev/blog/lets-build-an-android-launcher-application-with-flutter)
-
 ## Preview
 <img src="screenshots/Screen%201.jpg" height="480px" />
 
